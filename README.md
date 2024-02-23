@@ -1,4 +1,3 @@
-# Cấu trúc microservice
 
 B1: Clone về máy
 
