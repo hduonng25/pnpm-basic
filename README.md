@@ -1,15 +1,6 @@
-
-B1: Clone về máy
-
-B2: pnpm i
-
-B3: Tạo folder apps
-
-B4: Tạo các module theo dự án
-
-B5: Làm như bình thường
-
-B6: pnpm build
-
-# Chạy dự án
-pnpm --parallel start:dev
+# pnpm base
+- install pnpm: npm i -g pnpm
+- install library: pnpm i
+- build all: pnpm --parallel start:dev
+- build one moudle: pnpm --filter ... build
+- lint moudle: pnpm --filter ... lint
