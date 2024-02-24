@@ -1,4 +1,4 @@
-# pnpm base
+# PNPM BASIC
 - install pnpm: npm i -g pnpm
 - install library: pnpm i
 - build all: pnpm --parallel start:dev
